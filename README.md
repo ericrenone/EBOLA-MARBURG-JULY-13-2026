@@ -429,4 +429,3 @@ This assessment integrates real-time case data (AP, July 13) with theoretical fr
 **Status:** BOTH PATHOGENS ESCALATING | Health Worker Strike Crisis Active | Institutional Saturation Confirmed  
 **Crisis Level:** TIER 1 (Institutional Capacity at Breaking Point)
 
-**Contact:** Eric Ren, ERI Labs | github.com/ericrenone | www.erilabs.ai
